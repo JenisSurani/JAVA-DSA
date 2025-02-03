@@ -73,6 +73,7 @@ class FindEvenDigits {
 
 public class EvenDigits {
     public static void main(String[] args) {
+        System.out.println("Hello Jenis");
         int[] n1 = {11, 2, 33, 44, 5,999,99,22,33};
 
         // this will print how many no of n1 contains even no of digits
